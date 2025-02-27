@@ -27,10 +27,6 @@ I have a passion for turning raw data into meaningful insights and solving compl
 ### Electricity Consumption Prediction
 - Created a Shiny app using R to forecast electricity demand, with 95% prediction accuracy.
 
-## ✍️ Blogs & Insights
-- [My Take on Parametric Estimation](#)
-- [Exploratory Data Analysis: The First Step Towards Machine Learning](#)
-
 ## 🎵 Hobbies Outside Tech
 - Music Enthusiast
 - Cooking Experimenter
