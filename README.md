@@ -1,4 +1,4 @@
-👋 Hi, I'm Rijul Ugawekar!
+## Hi, I'm Rijul Ugawekar!
 🎓 Master’s in Information Systems @ Syracuse University (GPA: 3.7/4)
 📊 Data Science | Machine Learning | Cloud Computing | Cybersecurity
 📌 Passionate about turning raw data into insights & solving real-world problems!
