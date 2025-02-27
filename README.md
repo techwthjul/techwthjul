@@ -9,7 +9,7 @@
 ---
 
 ### 🚀 About Me  
-- 💡 Software Engineer and Data Science Enthusiast  
+- 💡 Machine Learning and Data Science Enthusiast  
 - 🎓 Studying **Information Systems** with a specialization in **Data Science & Analytics**  
 - 📊 Making sense of **data** through **machine learning & AI**  
 - 📺 Sharing insights on **GitHub** and **LinkedIn**  
