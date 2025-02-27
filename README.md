@@ -25,6 +25,35 @@
 </p>
 
 ---
+## **🏆 Certifications**  
+
+### 📜 Tableau Desktop Specialist  
+📅 **Issued:** Feb 2025  
+🔗 [View Credential](#)  
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
+
+---
+
+### 🎓 Microsoft Certified: Azure Administrator Associate  
+📅 **Issued:** Oct 2022 | **Expired:** Oct 2023  
+🔗 [View Credential](#)  
+![Azure](https://img.shields.io/badge/Azure%20Administrator-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
+
+---
+
+### 🎓 Microsoft Certified: Azure Fundamentals  
+📅 **Issued:** Sep 2022  
+🔗 [View Credential](#)  
+![Azure](https://img.shields.io/badge/Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
+
+---
+
+### ☁️ AWS Certified Cloud Practitioner  
+📅 **Issued:** May 2022 | **Expires:** May 2025  
+🔗 [View Credential](#)  
+![AWS](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+
+
 
 ### 🌍 Let's Connect!  
 
