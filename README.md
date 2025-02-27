@@ -1,36 +1,65 @@
-# 👋 Hi, I'm Rijul Ugawekar!
+👋 Hi, I'm Rijul Ugawekar!
+🎓 Master’s in Information Systems @ Syracuse University (GPA: 3.7/4)
+📊 Data Science | Machine Learning | Cloud Computing | Cybersecurity
+📌 Passionate about turning raw data into insights & solving real-world problems!
 
-I'm pursuing a master's in Information Systems at Syracuse University (GPA: 3.7/4), specializing in Data Science and Analytics.  
-I have a passion for turning raw data into meaningful insights and solving complex, real-world problems.
+🎓 Education
+📍 M.S. Information Systems (C.A.S. in Data Science) | Syracuse University (2023-2025)
+📍 B.E. Electronics Engineering | Vidyalankar Institute of Technology, University of Mumbai (2018-2022)
 
-## 🎓 Education
-**M.S. Information Systems** | Syracuse University (GPA: 3.7/4)  
-**B.E. Engineering** | Vidyalankar Institute of Technology, University of Mumbai (GPA: 3.46/4)
+💻 Technical Skills
+🔹 Programming & Data Science: Python 🐍 | SQL | R | Scala | TensorFlow | PyTorch | XGBoost | Sci-kit Learn
+🔹 Data Visualization: Tableau 📊 | Power BI | Google Analytics | Matplotlib | Seaborn
+🔹 Cloud & DevOps: AWS ☁️ | Azure | Kubernetes | Terraform | Ansible | Docker 🐳 | Jenkins
+🔹 Database & Big Data: SQL Server | Hadoop | Microsoft Access | NoSQL
+🔹 Version Control & CI/CD: Git | GitHub | AWS CodePipeline | Terraform | CloudFormation
 
-## 💻 Technical Skills
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sql&logoColor=white) 
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) 
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=white)  
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+💼 Professional Experience
+🔹 Teaching Assistant | Syracuse University – Whitman School of Management (Jan 2024 – May 2024)
+📌 Developed an Excel-driven curriculum in collaboration with UK startups focusing on real-world business analytics.
+📌 Led 20+ students on data migration projects, enhancing their hands-on experience with data management tools.
+📌 Mentored students on project management & analytics tools, preparing them for industry roles.
 
-## 🚀 Featured Projects
+🔹 Cloud & Infrastructure Engineer | Larsen & Toubro Infotech Mindtree (Jul 2022 – Jun 2023)
+📌 Automated cloud infrastructure monitoring using Python scripts & SQL queries, improving system performance.
+📌 Developed Power BI dashboards to provide real-time infrastructure insights for data-driven decisions.
+📌 Optimized cloud resource utilization, reducing downtime and enhancing system reliability.
 
-### CyberPulse: Predictive Threat Detection
+🚀 Featured Projects
+🛡️ CyberPulse: Predictive Threat Detection
+🔍 Machine learning-powered cybersecurity tool to predict cyber threats using anomaly detection techniques.
+✔ 40,000 cybersecurity reports analyzed
+✔ XGBoost model achieving 87% accuracy (AUC: 0.92)
+✔ Enhances real-time threat detection & proactive security measures
+🔗 GitHub Repo: CyberPulse
 
-CyberPulse is a machine learning-based cybersecurity tool that predicts cyber threats using anomaly detection techniques. Leveraging XGBoost, it analyzes 40,000 cybersecurity reports, achieving 87% accuracy and an AUC of 0.92. The project enhances real-time threat detection and proactive security measures for CyberHex and its stakeholders.
+#Cybersecurity #MachineLearning #AnomalyDetection #XGBoost #AI #DataScience
 
-### Dynamic Flight Fare Prediction
+✈️ Dynamic Flight Fare Prediction
+📈 Predicts & classifies flight ticket prices based on demand, seasonality, & booking timelines.
+✔ Regression (R²: 0.9551) & Classification (AUC: 0.9882) using XGBoost, Random Forest & Gradient Boosting
+✔ Helps airlines & travelers optimize pricing strategies
+🔗 GitHub Repo: Dynamic Pricing
 
-This project leverages machine learning to predict and classify flight ticket prices based on factors like demand, seasonality, and booking timelines. Using XGBoost, Random Forest, and Gradient Boosting, it achieves high accuracy in both regression (R²: 0.9551) and classification (AUC: 0.9882) tasks. The model-driven insights enable data-driven pricing strategies, enhancing fare forecasting for airlines and travelers.
+#DynamicPricing #MachineLearning #AirlineIndustry #XGBoost #DataAnalytics
 
-### Electricity Consumption Prediction App
+⚡ Electricity Consumption Prediction App
+🌍 An interactive Shiny web app to predict electricity consumption based on property & environmental factors.
+✔ Built using R and Shiny for real-time energy forecasting
+✔ Includes dynamic visualizations to interpret energy usage trends
+🔗 GitHub Repo: Electricity Consumption App
 
-An interactive machine learning-powered web app designed to predict electricity consumption based on property details and environmental factors. Built using R and Shiny, the app utilizes statistical models to analyze energy usage and provides real-time predictions with visual insights. Key features include user-friendly input, a prediction engine, and dynamic visualizations to understand energy consumption patterns.
+#EnergyAnalytics #DataScience #ShinyApp #MachineLearning #Sustainability
 
-## 📱 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/rijul-ugawekar/)
-- [Email](mailto:rnugawek@syr.edu)
-- [GitHub](https://github.com/techwthjul)
+📱 Let's Connect!
+🔗 LinkedIn: linkedin.com/in/rijul-ugawekar
+📧 Email: rnugawek@syr.edu
+👨‍💻 GitHub: github.com/techwthjul
+
+This README is now professional, structured, and optimized with:
+✅ Project Links 🔗
+✅ Professional Experience 💼
+✅ Technical Skills & Education 📊
+✅ Engaging Hashtags & Emojis 🚀
+
+Let me know if you’d like any modifications! 🎯🔥
