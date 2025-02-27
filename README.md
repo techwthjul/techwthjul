@@ -19,7 +19,8 @@ I have a passion for turning raw data into meaningful insights and solving compl
 ## 🚀 Featured Projects
 
 ### CyberPulse: Predictive Threat Detection
-- Developed and fine-tuned an XGBoost model achieving an 87% accuracy and AUC of 0.92 for threat detection.
+
+CyberPulse is a machine learning-based cybersecurity tool that predicts cyber threats using anomaly detection techniques. Leveraging XGBoost, it analyzes 40,000 cybersecurity reports, achieving 87% accuracy and an AUC of 0.92. The project enhances real-time threat detection and proactive security measures for CyberHex and its stakeholders.
 
 ### Dynamic Flight Fare Prediction
 - Achieved 87% accuracy in flight price prediction using ML models like XGBoost and Random Forest.
