@@ -23,7 +23,8 @@ I have a passion for turning raw data into meaningful insights and solving compl
 CyberPulse is a machine learning-based cybersecurity tool that predicts cyber threats using anomaly detection techniques. Leveraging XGBoost, it analyzes 40,000 cybersecurity reports, achieving 87% accuracy and an AUC of 0.92. The project enhances real-time threat detection and proactive security measures for CyberHex and its stakeholders.
 
 ### Dynamic Flight Fare Prediction
-- Achieved 87% accuracy in flight price prediction using ML models like XGBoost and Random Forest.
+
+This project leverages machine learning to predict and classify flight ticket prices based on factors like demand, seasonality, and booking timelines. Using XGBoost, Random Forest, and Gradient Boosting, it achieves high accuracy in both regression (R²: 0.9551) and classification (AUC: 0.9882) tasks. The model-driven insights enable data-driven pricing strategies, enhancing fare forecasting for airlines and travelers.
 
 ### Electricity Consumption Prediction
 - Created a Shiny app using R to forecast electricity demand, with 95% prediction accuracy.
