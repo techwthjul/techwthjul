@@ -29,10 +29,6 @@ This project leverages machine learning to predict and classify flight ticket pr
 ### Electricity Consumption Prediction
 - Created a Shiny app using R to forecast electricity demand, with 95% prediction accuracy.
 
-## 🎵 Hobbies Outside Tech
-- Music Enthusiast
-- Cooking Experimenter
-
 ## 📱 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/rijul-ugawekar/)
 - [Email](mailto:rnugawek@syr.edu)
