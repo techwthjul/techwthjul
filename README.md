@@ -15,22 +15,59 @@
 
 ## **💻 Technical Skills**  
 
-### **🔹 Programming & Data Science**  
-🐍 **Python** | **SQL** | **R** | **Scala** | **TensorFlow** | **PyTorch** | **XGBoost** | **Sci-kit Learn**  
+### ## **🛠️ Technical Skills**  
 
-### **🔹 Data Visualization**  
-📊 **Tableau** | **Power BI** | **Google Analytics** | **Matplotlib** | **Seaborn**  
+### **🚀 Programming & Data Science**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
+![XGBoost](https://img.shields.io/badge/XGBoost-FF8000?style=for-the-badge&logo=xgboost&logoColor=white)  
+![Sci-kit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)  
 
-### **🔹 Cloud & DevOps**  
-☁️ **AWS** | **Azure** | **Kubernetes** | **Terraform** | **Ansible** | **Docker** 🐳 | **Jenkins**  
+---
 
-### **🔹 Database & Big Data**  
-🗄️ **SQL Server** | **Hadoop** | **Microsoft Access** | **NoSQL**  
+### **📊 Data Visualization**  
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)  
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)  
+![Seaborn](https://img.shields.io/badge/Seaborn-0078D7?style=for-the-badge&logo=python&logoColor=white)  
 
-### **🔹 Version Control & CI/CD**  
-🔗 **Git** | **GitHub** | **AWS CodePipeline** | **Terraform** | **CloudFormation**  
+---
+
+### **☁️ Cloud & DevOps**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)  
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)  
+
+---
+
+### **🗄️ Database & Big Data**  
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=white)  
+![Microsoft Access](https://img.shields.io/badge/Microsoft%20Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)  
+![NoSQL](https://img.shields.io/badge/NoSQL-FF9900?style=for-the-badge&logo=mongodb&logoColor=white)  
+
+---
+
+### **🔗 Version Control & CI/CD**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![AWS CodePipeline](https://img.shields.io/badge/AWS%20CodePipeline-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)  
+![CloudFormation](https://img.shields.io/badge/AWS%20CloudFormation-FF4F8B?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+
+---
 
 **#Python #SQL #MachineLearning #CloudComputing #DataAnalytics**  
+
 
 ---
 
