@@ -2,7 +2,7 @@
 
 <p align="center">
   🎓 Master's in Information Systems @ Syracuse University (GPA: 3.7/4) <br>
-  📊 Data Science | Machine Learning | Cloud Computing | Cybersecurity <br>
+  📊 Data Science | Machine Learning | Cloud Computing | Project Management <br>
   📌 Passionate about turning raw data into insights & solving real-world problems! 
 </p>
 
