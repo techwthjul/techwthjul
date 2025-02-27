@@ -26,8 +26,9 @@ CyberPulse is a machine learning-based cybersecurity tool that predicts cyber th
 
 This project leverages machine learning to predict and classify flight ticket prices based on factors like demand, seasonality, and booking timelines. Using XGBoost, Random Forest, and Gradient Boosting, it achieves high accuracy in both regression (R²: 0.9551) and classification (AUC: 0.9882) tasks. The model-driven insights enable data-driven pricing strategies, enhancing fare forecasting for airlines and travelers.
 
-### Electricity Consumption Prediction
-- Created a Shiny app using R to forecast electricity demand, with 95% prediction accuracy.
+### Electricity Consumption Prediction App
+
+An interactive machine learning-powered web app designed to predict electricity consumption based on property details and environmental factors. Built using R and Shiny, the app utilizes statistical models to analyze energy usage and provides real-time predictions with visual insights. Key features include user-friendly input, a prediction engine, and dynamic visualizations to understand energy consumption patterns.
 
 ## 📱 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/rijul-ugawekar/)
