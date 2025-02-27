@@ -73,44 +73,51 @@
 
 ## **📂 Projects**  
 
-### **🛡️ [CyberPulse: Predictive Threat Detection](https://github.com/techwthjul/ML-CyberPulse-ThreatDetection)**
+### 🛡️ [CyberPulse: Predictive Threat Detection](https://github.com/techwthjul/ML-CyberPulse-ThreatDetection)
 🔍 A machine learning-powered cybersecurity tool to detect threats using anomaly detection techniques.  
 ✔ **40,000+ cybersecurity reports analyzed**  
 ✔ **XGBoost model achieving 87% accuracy (AUC: 0.92)**  
 ✔ **Enhances real-time threat detection & proactive security measures**  
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Blue?style=for-the-badge&logo=databricks&logoColor=white)  
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Orange?style=for-the-badge&logo=python&logoColor=white)  
+
+**Tech Stack:**  
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-008000?style=for-the-badge&logo=databricks&logoColor=white) 
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FFA500?style=for-the-badge&logo=python&logoColor=white) 
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF8000?style=for-the-badge&logo=xgboost&logoColor=white)  
 
 ---
 
-### **✈️ [Dynamic Flight Fare Prediction](https://github.com/techwthjul/Dynamic_Pricing_ML-Project)**
+### ✈️ [Dynamic Flight Fare Prediction](https://github.com/techwthjul/Dynamic_Pricing_ML-Project)
 📈 Predicts & classifies flight ticket prices based on demand, seasonality, & booking timelines.  
 ✔ **Regression (R²: 0.9551) & Classification (AUC: 0.9882) using XGBoost, Random Forest & Gradient Boosting**  
 ✔ **Helps airlines & travelers optimize pricing strategies**  
-![Pricing](https://img.shields.io/badge/Dynamic%20Pricing-Purple?style=for-the-badge&logo=google-analytics&logoColor=white)  
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Orange?style=for-the-badge&logo=python&logoColor=white)  
-![Data Science](https://img.shields.io/badge/Data%20Science-Blue?style=for-the-badge&logo=anaconda&logoColor=white)  
+
+**Tech Stack:**  
+![Pricing](https://img.shields.io/badge/Dynamic%20Pricing-800080?style=for-the-badge&logo=google-analytics&logoColor=white) 
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FFA500?style=for-the-badge&logo=python&logoColor=white) 
+![Data Science](https://img.shields.io/badge/Data%20Science-0000FF?style=for-the-badge&logo=anaconda&logoColor=white)  
 
 ---
 
-### **⚡ [Electricity Consumption Prediction App](https://github.com/techwthjul/Electricity-Consumption-Prediction-App-Using-Shiny-and-R-Programming-)**
+### ⚡ [Electricity Consumption Prediction App](https://github.com/techwthjul/Electricity-Consumption-Prediction-App-Using-Shiny-and-R-Programming-)
 🌍 An interactive Shiny web app to predict electricity consumption based on property & environmental factors.  
 ✔ **Built using R and Shiny for real-time energy forecasting**  
 ✔ **Includes dynamic visualizations to interpret energy usage trends**  
-![Energy Analytics](https://img.shields.io/badge/Energy%20Analytics-Green?style=for-the-badge&logo=google-analytics&logoColor=white)  
-![Shiny](https://img.shields.io/badge/Shiny-Blue?style=for-the-badge&logo=r&logoColor=white)  
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Orange?style=for-the-badge&logo=python&logoColor=white)  
+
+**Tech Stack:**  
+![Energy Analytics](https://img.shields.io/badge/Energy%20Analytics-008000?style=for-the-badge&logo=google-analytics&logoColor=white) 
+![Shiny](https://img.shields.io/badge/Shiny-0000FF?style=for-the-badge&logo=r&logoColor=white) 
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FFA500?style=for-the-badge&logo=python&logoColor=white)  
 
 ---
 
-### **📊 [SQL App for Student Job Allocation](https://github.com/techwthjul/Student_Employment_App_SQL)**
+### 📊 [SQL App for Student Job Allocation](https://github.com/techwthjul/Student_Employment_App_SQL)
 💼 A SQL-based application that prioritizes job allocation for students without employment.  
 ✔ **Developed using SQL views, stored procedures, and CTEs**  
 ✔ **Integrated with PowerApps for a user-friendly interface**  
 ✔ **Enhanced efficiency in job distribution and data integrity**  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
-![Database Management](https://img.shields.io/badge/Database%20Management-Green?style=for-the-badge&logo=microsoft-access&logoColor=white)  
-![Automation](https://img.shields.io/badge/Automation-Red?style=for-the-badge&logo=github-actions&logoColor=white)  
 
+**Tech Stack:**  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) 
+![Database Management](https://img.shields.io/badge/Database%20Management-008000?style=for-the-badge&logo=microsoft-access&logoColor=white) 
+![Automation](https://img.shields.io/badge/Automation-FF0000?style=for-the-badge&logo=github-actions&logoColor=white)  
 
