@@ -17,14 +17,7 @@
 
 ---
 
-### 📊 My GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=techwthjul&show_icons=true&theme=radical&hide=stars,prs" width="450px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=techwthjul&theme=radical" width="450px"/>
-</p>
-
----
 ## **🏆 Certifications**  
 
 ### 📜 Tableau Desktop Specialist  
