@@ -95,15 +95,11 @@
 
 ## **📂 Projects**  
 
-## 📂 Projects  
-
 ### ❄️ [Airflow + DBT + Snowflake ELT Pipeline](https://github.com/techwthjul/airflow-dbt-snowflake-pipeline)
 🔁 A cloud-based ELT pipeline orchestrated using **Airflow**, **DBT**, and **Snowflake** for automated data transformation and testing.  
 ✔ **Automates staging, transformation, and testing workflows across fact & dimension tables**  
 ✔ **Debugged DAGs via XCom and Airflow Logs to validate dbt model integrity & data lineage**  
 ✔ **Integrated Cosmos to trigger dbt run/test operations in CI/CD fashion**  
-
-![Architecture Diagram](https://github.com/techwthjul/airflow-dbt-snowflake-pipeline/blob/main/ChatGPT%20Image%20Jun%209%2C%202025%2C%2012_17_16%20PM.png)
 
 **Tech Stack:**  
 ![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
