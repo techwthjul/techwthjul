@@ -95,6 +95,25 @@
 
 ## **📂 Projects**  
 
+## 📂 Projects  
+
+### ❄️ [Airflow + DBT + Snowflake ELT Pipeline](https://github.com/techwthjul/airflow-dbt-snowflake-pipeline)
+🔁 A cloud-based ELT pipeline orchestrated using **Airflow**, **DBT**, and **Snowflake** for automated data transformation and testing.  
+✔ **Automates staging, transformation, and testing workflows across fact & dimension tables**  
+✔ **Debugged DAGs via XCom and Airflow Logs to validate dbt model integrity & data lineage**  
+✔ **Integrated Cosmos to trigger dbt run/test operations in CI/CD fashion**  
+
+![Architecture Diagram](https://github.com/techwthjul/airflow-dbt-snowflake-pipeline/blob/main/ChatGPT%20Image%20Jun%209%2C%202025%2C%2012_17_16%20PM.png)
+
+**Tech Stack:**  
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![DBT](https://img.shields.io/badge/DBT-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-000000?style=for-the-badge&logo=githubactions&logoColor=white)
+![Data Engineering](https://img.shields.io/badge/Data%20Engineering-228B22?style=for-the-badge&logo=data&logoColor=white)
+
+---
+
 ### 🛡️ [CyberPulse: Predictive Threat Detection](https://github.com/techwthjul/ML-CyberPulse-ThreatDetection)
 🔍 A machine learning-powered cybersecurity tool to detect threats using anomaly detection techniques.  
 ✔ **40,000+ cybersecurity reports analyzed**  
@@ -141,5 +160,6 @@
 **Tech Stack:**  
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![Database Management](https://img.shields.io/badge/Database%20Management-008000?style=for-the-badge&logo=microsoft-access&logoColor=white) 
-![Automation](https://img.shields.io/badge/Automation-FF0000?style=for-the-badge&logo=github-actions&logoColor=white)  
+![Automation](https://img.shields.io/badge/Automation-FF0000?style=for-the-badge&logo=github-actions&logoColor=white)
+
 
