@@ -221,17 +221,24 @@
 
 ![Automation](https://img.shields.io/badge/Automation-FF0000?style=for-the-badge&logo=github-actions&logoColor=white)
 
-## 📺 Featured YouTube Videos
+## 📺 YouTube Videos
 
 <table>
   <tr>
     <td>
       <a href="https://www.youtube.com/watch?v=0OOGlrK5_HM" target="_blank">
         <img src="https://img.youtube.com/vi/0OOGlrK5_HM/0.jpg" width="100%">
-        <br><strong>ELT Pipeline using Airflow, DBT, Snowflake and Cosmos </strong>
-      </a><br>
+        <br><strong>ELT Pipeline using Airflow, DBT, Snowflake and Cosmos</strong>
+      </a>
+    </td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=BHulUrbyDXo" target="_blank">
+        <img src="https://img.youtube.com/vi/BHulUrbyDXo/0.jpg" width="100%">
+        <br><strong>How I Organise My Life with Notion</strong>
+      </a>
     </td>
   </tr>
 </table>
+
 
 ---
