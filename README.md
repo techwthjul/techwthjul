@@ -229,7 +229,7 @@
       <a href="https://www.youtube.com/watch?v=0OOGlrK5_HM" target="_blank">
         <img src="https://img.youtube.com/vi/0OOGlrK5_HM/0.jpg" width="100%">
         <br><strong>ELT Pipeline using Airflow, DBT, Snowflake and Cosmos </strong>
-      </a><br>375K views • 2 years ago
+      </a><br>
     </td>
   </tr>
 </table>
