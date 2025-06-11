@@ -234,7 +234,7 @@
     <td>
       <a href="https://www.youtube.com/watch?v=BHulUrbyDXo" target="_blank">
         <img src="https://img.youtube.com/vi/BHulUrbyDXo/0.jpg" width="100%">
-        <br><strong>How I Organise My Life with Notion</strong>
+        <br><strong>A day in Life of a Master's Student</strong>
       </a>
     </td>
   </tr>
