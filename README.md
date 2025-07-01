@@ -93,7 +93,29 @@
   <img src="https://img.shields.io/badge/AWS%20CodePipeline-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/CloudFormation-FF4F8B?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 </p>
-## **📂 Projects**  
+
+
+## **🖥️ Projects**  
+
+### [End-to-End Fraud Detection ELT Pipeline](https://github.com/techwthjul/fraud-detection-ELT-pipeline)
+
+⚙️ An end-to-end ELT pipeline simulating real-time credit card transaction processing, from data streaming with **Kafka** to visualization in **Power BI**.
+
+✔ Engineered a real-time data stream using **Python** and **Kafka**, containerized with **Docker**, to ingest transactional data.
+
+✔ Implemented an ELT architecture, loading raw data into **Snowflake** and leveraging **dbt** for in-warehouse transformations and data modeling.
+
+✔ Developed an interactive **Power BI** dashboard to visualize flagged fraudulent and high-value transactions for analysis.
+
+**Tech Stack:**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)
+
 
 
 
